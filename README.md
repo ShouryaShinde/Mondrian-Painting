@@ -4,7 +4,7 @@ A mini-project inspired by Piet Mondrian’s abstract art, built using only **HT
 A creative way to practice layout design while blending code with art.
 
 ## 🔗 Live Demo
-[View Project] 
+[View Project] ( https://shouryashinde.github.io/Mondrian-Painting/ ) 
 
 ## 📁 Technologies Used
 - HTML5
